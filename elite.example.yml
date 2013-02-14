@@ -1,0 +1,12 @@
+# This file will pass authentication to the elite.rb script
+
+# In order to gather information from elite.callofduty.com,
+# you must validate these settings! All verification of
+# login is based on this content.
+
+#NOTE: rename this file to elite.yml or copy it and rename the copy.
+# The program requires the presence of such a file to execute.
+
+email:      "example@thermaldonkey.com"
+password:   "d0nk3yTime"
+gamertag:   "WoodysGamertag"
